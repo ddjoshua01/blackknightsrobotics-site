@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/blackknightsrobotics-site/static/js/main.11449604.js",
+    "main.css": "/blackknightsrobotics-site/static/css/main.b52a9607.css",
+    "main.js": "/blackknightsrobotics-site/static/js/main.cb67f29d.js",
+    "static/media/img-2.jpg": "/blackknightsrobotics-site/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/blackknightsrobotics-site/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/blackknightsrobotics-site/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/blackknightsrobotics-site/index.html",
-    "main.11449604.js.map": "/blackknightsrobotics-site/static/js/main.11449604.js.map"
+    "main.b52a9607.css.map": "/blackknightsrobotics-site/static/css/main.b52a9607.css.map",
+    "main.cb67f29d.js.map": "/blackknightsrobotics-site/static/js/main.cb67f29d.js.map"
   },
   "entrypoints": [
-    "static/js/main.11449604.js"
+    "static/css/main.b52a9607.css",
+    "static/js/main.cb67f29d.js"
   ]
 }

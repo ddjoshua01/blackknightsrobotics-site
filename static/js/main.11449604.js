@@ -1,2 +1,0 @@
-window.addEventListener("scroll",function(){this.window.scrollY,this.window.innerHeight}),window.addEventListener("scroll",function(){for(var e=document.querySelectorAll(".reveal"),n=0;n<e.length;n++){var i=window.innerHeight;e[n].getBoundingClientRect().top<i-150?e[n].classList.add("active"):e[n].classList.remove("active")}});
-//# sourceMappingURL=main.11449604.js.map
